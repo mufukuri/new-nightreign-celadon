@@ -190,7 +190,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*ELDEN RING NIGHTREIGN · Updated 2026-11-16 · Shared under the MIT License*
+*ELDEN RING NIGHTREIGN · Updated 2026-11-17 · Shared under the MIT License*
 
 
-Updated 2026-11-16.
+Updated 2026-11-17.
